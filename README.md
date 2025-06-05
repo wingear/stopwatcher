@@ -52,6 +52,7 @@ OS: Windows 7 or higher / и выше
 
 ## Installation / Установка
 No installation required! Just launch the executable file Stopwatcher x.x.x.exe and enjoy! Look for the file in the Releases section.
+
 Не требуется! Просто запустите исполнительный файл Stopwatcher x.x.x.exe и пользуйтесь в свое удовольствие! Файл ищите в релизах.
 
 ---
