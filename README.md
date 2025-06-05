@@ -1,7 +1,10 @@
 # Stopwatcher
 
-🕒 A smart stopwatch for freelancers and everyone who wants to take control of their time.
+🕒 A little but smart stopwatch for freelancers and everyone who wants to take control of their time.
 
+![Stopwatcher Main](assets/sw1.png)
+
+![Stopwatcher Settings](assets/sw2.png)
 ---
 
 ## English Description
@@ -48,24 +51,20 @@ Stopwatcher — это умный секундомер для фрилансер
 ## System requirements / Системные требования
 OS: Windows 7 or higher / и выше
 
----
 
 ## Installation / Установка
 No installation required! Just launch the executable file Stopwatcher x.x.x.exe and enjoy! Look for the file in the Releases section.
 
 Не требуется! Просто запустите исполнительный файл Stopwatcher x.x.x.exe и пользуйтесь в свое удовольствие! Файл ищите в релизах.
 
----
 
 ## Technologies Used
-- Language: C#
+Language: C#
 
----
 
 ## License
 Apache License 2.0 — see [LICENSE](LICENSE.md) for details.
 
----
 
 ## Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
