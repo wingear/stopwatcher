@@ -1,0 +1,12 @@
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Debug\Stopwatcher.csprojAssemblyReference.cache
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Debug\Stopwatcher.Form1.resources
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Debug\Stopwatcher.Properties.Resources.resources
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Debug\Stopwatcher.csproj.GenerateResource.cache
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Debug\Stopwatcher.Form1.en.resources
+C:\Users\Wingear\source\repos\Stopwatcher\bin\Debug\Stopwatcher.exe.config
+C:\Users\Wingear\source\repos\Stopwatcher\bin\Debug\Stopwatcher.exe
+C:\Users\Wingear\source\repos\Stopwatcher\bin\Debug\Stopwatcher.pdb
+C:\Users\Wingear\source\repos\Stopwatcher\bin\Debug\en\Stopwatcher.resources.dll
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Debug\en\Stopwatcher.resources.dll
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Debug\Stopwatcher.exe
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Debug\Stopwatcher.pdb

@@ -1,0 +1,16 @@
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Release\Stopwatcher.csprojAssemblyReference.cache
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Release\Stopwatcher.Form1.resources
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Release\Stopwatcher.Properties.Resources.resources
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Release\Stopwatcher.csproj.GenerateResource.cache
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Release\Stopwatcher.exe
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Release\Stopwatcher.pdb
+C:\Users\Wingear\source\repos\Stopwatcher\bin\Release\Stopwatcher.exe.config
+C:\Users\Wingear\source\repos\Stopwatcher\bin\Release\Stopwatcher.exe
+C:\Users\Wingear\source\repos\Stopwatcher\bin\Release\Stopwatcher.pdb
+C:\Users\Wingear\source\repos\Stopwatcher\bin\Release\en\Stopwatcher.resources.dll
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Release\Stopwatcher.Form1.en.resources
+C:\Users\Wingear\source\repos\Stopwatcher\obj\Release\en\Stopwatcher.resources.dll
+C:\Users\Farid\source\repos\Stopwatcher\obj\Release\Stopwatcher.csproj.AssemblyReference.cache
+C:\Users\Farid\source\repos\Stopwatcher\obj\Release\Stopwatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Farid\source\repos\Stopwatcher\obj\Release\Stopwatcher.exe
+C:\Users\Farid\source\repos\Stopwatcher\obj\Release\Stopwatcher.pdb
