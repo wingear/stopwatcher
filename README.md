@@ -46,12 +46,13 @@ Stopwatcher — это умный секундомер для фрилансер
 ---
 
 ## System requirements / Системные требования
-OS: Windows 7 и выше
+OS: Windows 7 or higher / и выше
 
 ---
 
 ## Installation / Установка
-Не требуется! Просто запустите исполнительный файл Stopwatcher x.x.x.exe и пользуйтесь в свое удовольствие!
+No installation required! Just launch the executable file Stopwatcher x.x.x.exe and enjoy! Look for the file in the Releases section.
+Не требуется! Просто запустите исполнительный файл Stopwatcher x.x.x.exe и пользуйтесь в свое удовольствие! Файл ищите в релизах.
 
 ---
 
@@ -60,8 +61,8 @@ OS: Windows 7 и выше
 
 ---
 
-## License / Лицензия
-Apache License 2.0 — see [LICENSE](LICENSE) for details.
+## License
+Apache License 2.0 — see [LICENSE](LICENSE.md) for details.
 
 ---
 
